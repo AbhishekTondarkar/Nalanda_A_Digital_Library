@@ -1,6 +1,6 @@
 # Nalanda- A Digital Library
 
-![Abhishek Tondarkar](Homepage.png)
+![Abhishek Tondarkar](ss.png)
 
 ## Introduction
 
