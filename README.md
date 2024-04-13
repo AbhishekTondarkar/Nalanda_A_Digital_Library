@@ -25,19 +25,19 @@ SQLite: Database management system for storing user and book information.
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
-https://github.com/AbhishekTondarkar/Nalanda_A_Digital_Library.git
+  https://github.com/AbhishekTondarkar/Nalanda_A_Digital_Library.git
 
 2. **Navigate to the project directory**:
 
-cd Nalanda_A_Digital_Library-main
+  cd Nalanda_A_Digital_Library-main
 
 3.**Install the required dependencies**:
 
-pip install Flask
+  pip install Flask
 
 4.**Run the Flask application**:
 
-python app.py
+  python app.py
 
 **The application will be accessible at http://localhost:5000 in your web browser.**
 
