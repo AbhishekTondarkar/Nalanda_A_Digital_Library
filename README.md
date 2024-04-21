@@ -31,11 +31,17 @@ To run this project locally, follow these steps:
 
   cd Nalanda_A_Digital_Library-main
 
-3.**Install the required dependencies**:
+3. **Create and activate virtual environment**:
+
+  python3 -m venv myenv (for macos)
+
+  source myenv/bin/activate
+
+4.**Install the required dependencies**:
 
   pip install Flask
 
-4.**Run the Flask application**:
+5.**Run the Flask application**:
 
   python app.py
 
