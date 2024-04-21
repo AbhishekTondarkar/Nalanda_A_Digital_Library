@@ -37,11 +37,11 @@ To run this project locally, follow these steps:
 
   source myenv/bin/activate
 
-4.**Install the required dependencies**:
+4. **Install the required dependencies**:
 
   pip install Flask
 
-5.**Run the Flask application**:
+5. **Run the Flask application**:
 
   python app.py
 
